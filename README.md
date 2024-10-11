@@ -35,14 +35,14 @@ A página é dividida em um cabeçalho (header), uma seção principal (main) e 
   * Seção de "Mais vendidos" utilizando um carrossel de imagens (Swiper.js) com destaque para o livro do mês e informações do autor
   * Seção de "Tópicos visitados recentemente" com uma lista de links
   * Seção para cadastro de e-mail para receber novidades
-
+     
     
 * **Rodapé:**
   * Links para os sites do Grupo Alura (Caelum, Casa do Código, etc.)
   * Links para comunidades (Hipster ponto Tech, Scuba Dev, etc.)
-
-
-
+   
+   
+   
 ### Instruções para Execução
 1. Copie o conteúdo dos arquivos index.html, style.css, reset.css e script.js para um diretório local.
 2. Certifique-se de que a pasta imagens esteja no mesmo diretório e contenha as imagens utilizadas na página.
