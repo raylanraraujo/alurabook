@@ -1,9 +1,6 @@
-# alurabook
-Projeto elaborado durante curso "HTML e CSS - responsividade com mobile first"
-
 # AluraBooks - Página Inicial
 
-Este documento descreve o código fonte da página inicial do website AluraBooks. Projeto elaborado durante curso "HTML e CSS - responsividade com mobile first"
+Este documento descreve o código fonte da página inicial do website AluraBooks.
 
 ### Tecnologias Utilizadas
 * HTML
@@ -52,4 +49,4 @@ A página é dividida em um cabeçalho (header), uma seção principal (main) e 
 O código fonte deste projeto está disponível sob a licença MIT.
 
 ### Considerações Finais
-Este é um documento básico descrevendo o código fonte da página inicial do AluraBooks. Você pode incluir mais detalhes sobre o código CSS, JavaScript e funcionalidades específicas da página, se necessário.
+Projeto elaborado durante curso "HTML e CSS - responsividade com mobile first".
